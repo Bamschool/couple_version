@@ -2,6 +2,6 @@
   "id": 1,
   "ios": "1.0.0",
   "android": "1.0.0",
-  "ios_inspection": false,
+  "ios_inspection": true,
   "android_inspection": false
 }
